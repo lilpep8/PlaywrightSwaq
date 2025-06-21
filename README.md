@@ -34,7 +34,7 @@
       ```bash
    xcode-select --install # macOS
    ```
-   Установи для Windows ([GnuWin Make]())
+   Установи для Windows [GnuWin Make][make-hidden]
 
 
 6. Запустить тесты
@@ -43,4 +43,4 @@
    ```
 
 <!-- Скрытая ссылка на GnuWin Make -->
-[gnuwin]: https://gnuwin32.sourceforge.net/packages/make.htm
+[make-hidden]: https://gnuwin32.sourceforge.net/packages/make.htm
